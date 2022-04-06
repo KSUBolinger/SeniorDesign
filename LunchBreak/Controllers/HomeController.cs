@@ -25,6 +25,8 @@ namespace LunchBreak.Controllers
 
         public IActionResult Privacy()
         {
+            ViewBag.Message = "Test View Bag";
+            ViewBag.Color = "Blue";
             return View();
         }
 
