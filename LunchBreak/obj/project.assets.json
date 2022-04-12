@@ -6232,19 +6232,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\halom\\.nuget\\packages\\": {}
+    "C:\\Users\\easto\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halom\\source\\repos\\SeniorDesign\\LunchBreak\\LunchBreak.csproj",
+      "projectUniqueName": "C:\\Users\\easto\\Source\\Repos\\SeniorDesign\\LunchBreak\\LunchBreak.csproj",
       "projectName": "LunchBreak",
-      "projectPath": "C:\\Users\\halom\\source\\repos\\SeniorDesign\\LunchBreak\\LunchBreak.csproj",
-      "packagesPath": "C:\\Users\\halom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halom\\source\\repos\\SeniorDesign\\LunchBreak\\obj\\",
+      "projectPath": "C:\\Users\\easto\\Source\\Repos\\SeniorDesign\\LunchBreak\\LunchBreak.csproj",
+      "packagesPath": "C:\\Users\\easto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\easto\\Source\\Repos\\SeniorDesign\\LunchBreak\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\halom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\easto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6293,7 +6298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
